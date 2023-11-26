@@ -8,7 +8,6 @@
 #include <cassert>
 
 
-
 using namespace std;
 
 class Domain {
